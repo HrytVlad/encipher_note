@@ -1,0 +1,11 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    max-width: 1000px;
+    margin: 50px auto 0px auto;
+}
+
+.about p {
+    font-size: 18px;
+}

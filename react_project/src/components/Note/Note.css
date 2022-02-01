@@ -1,0 +1,12 @@
+
+.create{
+    margin: 70px auto 0px auto;
+    width: 900px;
+    flex:  1 1 auto;
+}
+
+.btn-primary{
+    width: 150px;
+    margin: 20px 0px 0px 0px;
+}
+
